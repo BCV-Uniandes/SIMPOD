@@ -2,7 +2,7 @@
 
 # A new benchmark for machine learning applied to powder X-ray diffraction
 
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-blue.svg)](link)
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-blue.svg)](https://doi.org/10.1038/s41597-022-01288-4)
 [![pytorch](https://img.shields.io/badge/PyTorch_1.10+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
 
 
@@ -135,4 +135,5 @@ python Space_Group_Prediction/automl.py
 
 ## :page_with_curl: Citation
 
+Rincón, S., González, G., Macías, M.A. et al. A new benchmark for machine learning applied to powder X-ray diffraction. Sci Data 12, 1186 (2025). https://doi.org/10.1038/s41597-025-05534-3
 
