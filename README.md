@@ -2,7 +2,7 @@
 
 # A new benchmark for machine learning applied to powder X-ray diffraction
 
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-blue.svg)](https://doi.org/10.1038/s41597-022-01288-4)
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-blue.svg)](https://doi.org/10.1038/s41597-025-05534-3)
 [![pytorch](https://img.shields.io/badge/PyTorch_1.10+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
 
 
