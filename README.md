@@ -78,17 +78,17 @@ We provide a tutorial notebook at *Turorial/Tutorial.ipynb* that provides a full
 
 ## :crystal_ball: Data Creation Process
 
-We created the data following the approach explained on [PAPER]. To replicate this process run the following command, using some example CIF files in the *Data_Creation/Files* folder.
+We created the data following the approach explained on [PAPER](https://doi.org/10.1038/s41597-025-05534-3). To replicate this process run the following command, using some example CIF files in the *Data_Creation/Files* folder.
 
 ```
 python Data_Creation/Extract_Info.py
 ```
 
-In the *Data_Creation/Data_Utils.py* file, you will find the main functions used to extract information from the CIF files and generate the simulated diffractograms and images. For a detailed mathematical explanation of the image generation process, go to the Methods section of [PAPER].
+In the *Data_Creation/Data_Utils.py* file, you will find the main functions used to extract information from the CIF files and generate the simulated diffractograms and images. For a detailed mathematical explanation of the image generation process, go to the Methods section of [PAPER](https://doi.org/10.1038/s41597-025-05534-3).
 
 ## :robot: Machine Learning for Space Group Prediction
 
-Here we provide the codes for the space group prediction using the PXRD patterns from SIMPOD, described in [PAPER]. 
+Here we provide the codes for the space group prediction using the PXRD patterns from SIMPOD, described in [PAPER](https://doi.org/10.1038/s41597-025-05534-3). 
 
 ### :eyes: Computer Vision Models
 
@@ -123,7 +123,7 @@ CUDA_VISIBLE_DEVICES=<GPU_ID> python Space_Group_Prediction/Test.py --model swin
 
 Note that the weights files names include all the hyperparameters of the model and the fold they were trained on.
 
-If you want to replicate the results of [PAPER] download the pretrained models at [Drive](https://drive.google.com/drive/folders/1K_tu-JUu6ksK4c-2MM3lmG0ZzxSAScjI?usp=drive_link). Place the models inside the "Space_Group_Prediction/Models/" folder.
+If you want to replicate the results of [PAPER](https://doi.org/10.1038/s41597-025-05534-3) download the pretrained models at [Drive](https://drive.google.com/drive/folders/1K_tu-JUu6ksK4c-2MM3lmG0ZzxSAScjI?usp=drive_link). Place the models inside the "Space_Group_Prediction/Models/" folder.
 
 ### :computer: AutoML Models
 
