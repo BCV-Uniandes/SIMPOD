@@ -137,3 +137,18 @@ python Space_Group_Prediction/automl.py
 
 Rincón, S., González, G., Macías, M.A. et al. A new benchmark for machine learning applied to powder X-ray diffraction. Sci Data 12, 1186 (2025). https://doi.org/10.1038/s41597-025-05534-3
 
+Bibtex format
+```
+@article{10.1038/s41597-025-05534-3, 
+year = {2025}, 
+title = {{A new benchmark for machine learning applied to powder X-ray diffraction}}, 
+author = {Rincón, Sergio and González, Gabriel and Macías, Mario A and Arbeláez, Pablo}, 
+journal = {Scientific Data}, 
+doi = {10.1038/s41597-025-05534-3}, 
+abstract = {{Although crystal parameter prediction from powder X-ray diffraction has recently attracted the interest of the machine learning community, most existing datasets for this task are private and lack structural diversity. Here, we introduce the Simulated Powder X-ray Diffraction Open Database (SIMPOD), a new dataset that is public and structurally varied. This new benchmark includes 467,861 crystal structures from the Crystallography Open Database (COD) and their powder X-ray diffraction patterns. SIMPOD presents simulated one-dimensional powder X-ray diffractograms and derived two-dimensional radial images to facilitate the adoption of computer vision models for this task. We hope SIMPOD contributes to developing models that improve materials analysis from powder X-ray diffraction.}}, 
+pages = {1186}, 
+number = {1}, 
+volume = {12}
+}
+```
+
