@@ -137,7 +137,7 @@ python Space_Group_Prediction/automl.py
 
 Rincón, S., González, G., Macías, M.A. et al. A new benchmark for machine learning applied to powder X-ray diffraction. Sci Data 12, 1186 (2025). https://doi.org/10.1038/s41597-025-05534-3
 
-Bibtex format
+Bibtex format:
 ```
 @article{10.1038/s41597-025-05534-3, 
 year = {2025}, 
